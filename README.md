@@ -1,4 +1,4 @@
-# E-commerce Admin dashboard panel
+# E-commerce SaaS Admin dashboard panel
 
 ## Please leave a ⭐ if you like it 💙
 
