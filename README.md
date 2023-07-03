@@ -16,7 +16,7 @@
 
 ## How it looks:
 
-![E-commerce WebApp GIF](https://github.com/aravind-aimedlabs/ecommerce-admin-dashboard-panel/raw/main/assets/admin_dashboard.gif)
+![E-commerce WebApp GIF](https://github.com/aravind-aimedlabs/ecommerce-admin-dashboard-panel/raw/main/assets/ecommerce_admin_dash)
 
 <img width="1080" alt="Screenshot1" src="https://github.com/aravind-aimedlabs/ecommerce-admin-dashboard-panel/raw/main/assets/loginimage.png">
 
